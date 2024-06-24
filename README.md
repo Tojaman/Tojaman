@@ -1,9 +1,10 @@
-## Hi there 👋
-
----
-<p align="center">
+<div align="center">
+  ## Hi there 👋
+  
+  ---
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-</p>
+</div>
 <!--
 **Tojaman/Tojaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
