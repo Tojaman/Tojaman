@@ -3,7 +3,7 @@
   **Tech Skill**
   
   ---
-  <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=#6DB33F&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
 
 
   ---
