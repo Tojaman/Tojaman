@@ -1,6 +1,6 @@
 <div align="center">
  
-  **Tech Skill**
+  ✨**Tech Skill**✨
  <div align="center">
   <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 
   ---
-  **Contact**
+  📫**Contact**📫
  <div align="center">
   <a href="https://tojaman.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <a href="https://medium.com/@hansukjinid">
  </div>
