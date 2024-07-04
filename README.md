@@ -1,7 +1,7 @@
 <div align="center">
  
   ✨**Tech Skill**✨
- <div align="center">
+ <div>
   <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
  </div>
 
- <div align="center">
+ <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  </div>
 
- <div align="center">
+ <div>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
  </div>
@@ -23,7 +23,7 @@
 
 
   ---
- <div align="center">
+ <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
   <a href="https://github.com/Tojaman">
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" />
