@@ -1,8 +1,6 @@
 <div align="center">
  
   **Tech Skill**
-  
-  ---
  <div align="center">
   <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
