@@ -25,7 +25,7 @@
   ---
  <div style="display: flex; justify-content: center; align-items: center;">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaman&layout=compact&theme=nord&hide_border=true" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaman&layout=compact&theme=radical&hide_border=true" />
 </div>
 
   ---
