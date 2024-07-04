@@ -24,6 +24,7 @@
 
   ---
   <img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=조형준&layout=compact)
 
   ---
   📫**Contact**📫
