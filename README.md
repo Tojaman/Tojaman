@@ -23,7 +23,6 @@
 
 
   ---
-  ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoon5020)](https://solved.ac/zzoon5020/)
   ---
   📫**Contact**📫
