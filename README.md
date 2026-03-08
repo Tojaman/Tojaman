@@ -26,20 +26,13 @@ Backend Developer | Computer Science Student
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaman&layout=compact&theme=radical"/>
-</p>
 
-## 🧠 Algorithm
-
-<p align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoon5020)](https://solved.ac/zzoon5020/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoon5020"/>
 
 </p>
 
