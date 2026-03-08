@@ -1,46 +1,65 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Tojaman</h1>
+<p align="center">
+Backend Developer | Computer Science Student
+</p>
+
+## 🛠 Tech Stack
+
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### DevOps
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
  
-  ✨**Tech Skill**✨
- <div>
-  <img src="https://img.shields.io/badge/Spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
- </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaman&layout=compact&theme=radical"/>
+</p>
 
- <div>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- </div>
+## 🧠 Algorithm
 
- <div>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
- </div>
+<p align="center">
 
-  
-  
-[![Tojaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tojaman&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoon5020)](https://solved.ac/zzoon5020/)
+
+</p>
+
+## 📌 Projects
+
+### [PT_Match_BE](https://github.com/Tojaman/PT_Match_BE)
+> PT 매칭 서비스  
+> 기간: 2025.10 ~ 2026.02
 
 
-  ---
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzoon5020)](https://solved.ac/zzoon5020/)
-  ---
-  📫**Contact**📫
- <div align="center">
-  <a href="https://tojaman.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <a href="https://medium.com/@hansukjinid">
+### [KDEV4-TRACKY-BE](https://github.com/Tojaman/KDEV4-TRACKY-BE)
+> Tracky 서비스 백엔드 개발 프로젝트  
+> 기간: 2025.03 ~ 2025.07
 
-<!--
-**Tojaman/Tojaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### [CustomOnlineLec](https://github.com/Tojaman/CustomOnlineLec)
+> 온라인 강의 커스터마이징 서비스 백엔드  
+> 기간: 2024.01 ~ 2024.10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### [AInterview_backend](https://github.com/Tojaman/AInterview_backend)
+> AI 기반 모의 면접 서비스 백엔드  
+> 기간: 2023.06 ~ 2023.08
