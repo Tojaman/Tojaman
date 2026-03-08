@@ -29,8 +29,6 @@
  <div align="center">
   <a href="https://tojaman.tistory.com//"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <a href="https://medium.com/@hansukjinid">
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTojaman&count_bg=%233DABC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!--
 **Tojaman/Tojaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
